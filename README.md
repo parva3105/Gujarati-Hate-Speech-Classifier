@@ -22,7 +22,6 @@ A notebook-driven workflow to train a Gujarati hate-speech classifier using an i
 
 Saved model: `outputs/with_pseudo/model`
 
-> Tip: Always verify on a **gold-only** holdout split for unbiased metrics (snippet below).
 
 ---
 
