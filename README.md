@@ -4,7 +4,7 @@ A notebook-driven workflow to train a Gujarati hate-speech classifier using an i
 
 ---
 
-## Current Snapshot (your data & metrics)
+## Current Snapshot
 
 **Datasets**
 - `seed_labels.csv` — **398** rows | classes: **0: 199, 1: 199**
